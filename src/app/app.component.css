@@ -1,0 +1,32 @@
+:host {
+  margin: 100px 0px;
+border: black;
+border-width: thick;
+}
+
+.mat-form-field {
+  width: 100%;
+  min-width: 300px;
+}
+.maincontent{
+  height: 100%;
+}
+.menu{
+  display: block;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.contents{
+  width: 100%;
+  border: royalblue;
+  border-width: thick;
+}
+.button {
+  display: flex;
+  justify-content: flex-end;
+  justify-self: start;
+  justify-content: center;
+  height: 50;
+}
